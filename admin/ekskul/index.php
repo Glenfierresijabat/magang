@@ -11,7 +11,7 @@ $active = 'master';
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Data Ekskul - SMK Negeri 1 Wanareja</title>
+	<title>Data Ekskul - SDN cepoko</title>
 	<link rel="stylesheet" href="../../resources/datatables/datatables.min.css">
 	<link rel="stylesheet" href="../../resources/css/bootstrap.min.css">
 </head>

@@ -15,7 +15,7 @@ $aktif = 'siswa';
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Detail Siswa - SMK Negeri 1 Wanareja</title>
+	<title>Detail Siswa - SDN cepoko</title>
 	<link rel="stylesheet" href="resources/datatables/datatables.min.css">
 	<link rel="stylesheet" href="resources/fonts/stylesheet.css">
 	<link rel="stylesheet" href="resources/css/bootstrap.min.css">
@@ -27,10 +27,10 @@ $aktif = 'siswa';
 		<!-- top bar -->
 		<div class="logo clearfix">
 			<div class="float-left mt-3 mb-3">
-				<img src="resources/images/logo.png" alt="Logo Sekolah" width="70px" class="float-left mr-3">
+				<img src="resources/images/logo2.png" alt="Logo Sekolah" width="70px" class="float-left mr-3">
 				<div class="text float-right">
-					<span class="smk">SMK Negeri 1 Wanareja</span><br>
-					<span class="visi">Mewujudkan SMK Berkarakter, Berkompeten dan Unggul.</span>
+					<span class="smk">SDN cepoko</span><br>
+					<span class="visi">Mewujudkan SDN Berkarakter, Berkompeten dan Unggul.</span>
 				</div>
 			</div>
 		</div>
@@ -98,7 +98,7 @@ $aktif = 'siswa';
 			<?php require 'sidebar.php'; ?>
 		</div>
 		<div class="text-white footer">
-			2023 © Copyright by Akbar Hossam Delmiro
+			2023 © Copyright by GLEN
 		</div>
 	</div>
 

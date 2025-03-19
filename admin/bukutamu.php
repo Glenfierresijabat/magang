@@ -11,7 +11,7 @@ $active = 'bukutamu';
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Data Bukutamu - SMK Negeri 1 Wanareja</title>
+	<title>Data Bukutamu - SDN cepoko</title>
 	<link rel="stylesheet" href="../resources/datatables/datatables.min.css">
 	<link rel="stylesheet" href="../resources/css/bootstrap.min.css">
 </head>

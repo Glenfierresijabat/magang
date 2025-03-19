@@ -11,7 +11,7 @@ $query = mysqli_query($koneksi, "SELECT id, nama FROM tbl_guru");
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Tambah Jurusan - SMAN 28 Kab.Tangerang</title>
+	<title>Tambah Jurusan - SDN cepoko</title>
 	<link rel="stylesheet" href="../../resources/css/bootstrap.min.css">
 </head>
 

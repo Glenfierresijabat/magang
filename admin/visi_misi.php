@@ -12,7 +12,7 @@ $active = 'visi_misi';
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Visi Misi - SMK Negeri 1 Wanareja</title>
+	<title>Visi Misi - SDN cepoko</title>
 	<link rel="stylesheet" href="../resources/css/bootstrap.min.css">
 </head>
 <body>

@@ -17,7 +17,7 @@ $active = 'artikel';
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Ubah Artikel - SMK Negeri 1 Wanareja</title>
+	<title>Ubah Artikel - SDN cepoko</title>
 	<link rel="stylesheet" href="../../resources/css/bootstrap.min.css">
 </head>
 

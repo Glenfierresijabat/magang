@@ -11,7 +11,7 @@ $query = mysqli_query($koneksi, "SELECT * FROM tbl_kategori_artikel");
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Tambah Artikel - SMK Negeri 1 Wanareja</title>
+	<title>Tambah Artikel - SDN cepoko</title>
 	<link rel="stylesheet" href="../../resources/css/bootstrap.min.css">
 </head>
 

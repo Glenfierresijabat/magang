@@ -12,7 +12,7 @@ $active = 'tentang_website';
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Tentang Website - SMK Negeri 1 Wanareja</title>
+	<title>Tentang Website - SDN cepoko</title>
 	<link rel="stylesheet" href="../resources/css/bootstrap.min.css">
 </head>
 <body>

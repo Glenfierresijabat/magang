@@ -14,7 +14,7 @@ $aktif = 'artikel';
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Daftar Kategori - SMK Negeri 1 Wanareja</title>
+	<title>Daftar Kategori - SDN cepoko</title>
 	<link rel="stylesheet" href="resources/fonts/stylesheet.css">
 	<link rel="stylesheet" href="resources/css/bootstrap.min.css">
 	<link rel="stylesheet" href="resources/css/style.css">
@@ -25,10 +25,10 @@ $aktif = 'artikel';
 		<!-- top bar -->
 		<div class="logo clearfix">
 			<div class="float-left mt-3 mb-3">
-				<img src="resources/images/logo.png" alt="Logo Sekolah" width="70px" class="float-left mr-3">
+				<img src="resources/images/logo2.png" alt="Logo Sekolah" width="70px" class="float-left mr-3">
 				<div class="text float-right">
-					<span class="smk">SMAN 28 Kab.Tangerang</span><br>
-					<span class="visi">Mewujudkan SMK Berkarakter, Berkompeten dan Unggul.</span>
+					<span class="smk">SDN cepoko</span><br>
+					<span class="visi">Mewujudkan SDN Berkarakter, Berkompeten dan Unggul.</span>
 				</div>
 			</div>
 		</div>
@@ -63,7 +63,7 @@ $aktif = 'artikel';
 			<?php require_once 'sidebar.php'; ?>
 		</div>
 		<div class="text-white footer">
-			2019 © Copyright by Fakhrul Fanani Nugroho.
+			2019 © Copyright by GLEN
 		</div>
 	</div>
 
