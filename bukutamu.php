@@ -34,7 +34,7 @@ $aktif = 'bukutamu';
 		<div class="row p-3">
 			<div class="col-12 col-md-8">
 				<div class="title mb-3">
-					Buku Tamu SMK Negeri 1 Wanareja
+					Buku Tamu SDN cepoko
 				</div>
 				<div>
 					<form method="POST" action="proses_bukutamu.php">

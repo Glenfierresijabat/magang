@@ -57,7 +57,7 @@ $active = 'master';
 									<th width="50px">Foto</th>
 									<th>Nama</th>
 									<th>No HP</th>
-									<th>Jurusan</th>
+									<th>Mata Pelajaran</th>
 									<th>Alamat</th>
 									<th>Aksi</th>
 								</tr>

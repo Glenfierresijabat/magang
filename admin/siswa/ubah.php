@@ -86,7 +86,7 @@ $active = 'master';
 								</div>
 								<div class="col">
 									<div class="form-group">
-										<label for="Jurusan">Jurusan</label>
+										<label for="Jurusan">Mata Pelajaran</label>
 										<select name="id_jurusan" id="jurusan" class="form-control">
 											<?php while($row = mysqli_fetch_assoc($query_jurusan)) : ?>
 												<option value="<?= $row['id'] ?>"><?= $row['nama_jurusan'] ?></option>

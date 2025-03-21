@@ -46,7 +46,7 @@ $no = 1;
 							<th>No</th>
 							<th width="50px">Foto</th>
 							<th>Nama</th>
-							<th>Jurusan</th>
+							<th>Kelas</th>
 							<th>Alamat</th>
 						</tr>
 					</thead>
