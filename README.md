@@ -28,3 +28,6 @@ Untuk fiturnya masih sangas sederhana, contohnya sebagai berikut
 8. Buku Tamu**
 9. dan lain lain
 <img width="688" height="984" alt="image" src="https://github.com/user-attachments/assets/5a5c7714-4fcf-4ff9-b260-97f76c97fdd4" />
+<img width="856" height="723" alt="image" src="https://github.com/user-attachments/assets/16ddfafb-4fa6-468f-a51b-4fc957711bfe" />
+<img width="535" height="437" alt="image" src="https://github.com/user-attachments/assets/13fa4c24-5f9d-4059-83f5-4e88a3fd851a" />
+<img width="629" height="368" alt="image" src="https://github.com/user-attachments/assets/99e856cd-2c6d-40ff-b4c3-51b9aa94e225" />
